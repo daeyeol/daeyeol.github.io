@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 경력
+***
+#### MeshKorea(메쉬코리아)
+##### .NET Dveloper & Java Server Developer/연구원
+###### 2015.10 - 현재
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+#### VINYLI(바이널아이)
+##### .NET Developer/책임
+###### 2010.03 - 2015.10
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shine10ee@gmail.com](mailto:shine10ee@gmail.com)
